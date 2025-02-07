@@ -1,5 +1,37 @@
 # Spatial_Classifier-DL
-Deep learning based spatial stationary and nonstationary classifier.
+
+This repository contains reproducible code for the paper:  
+[*Efficient Large-Scale Nonstationary Spatial Covariance Function Estimation Using Convolutional Neural Networks*](https://doi.org/10.1080/10618600.2024.2402277).  
+
+## Overview
+
+This work presents a deep learning-based approach for classifying spatial **stationary** and **nonstationary** covariance functions. The repository includes the necessary scripts to reproduce the results demonstrated in the paper.
+
+## Citation
+
+If you use this code, please cite the following paper:
+
+**Nag, P., Hong, Y., Abdulah, S., Qadir, G. A., Genton, M. G., & Sun, Y. (2024).**  
+*Efficient Large-Scale Nonstationary Spatial Covariance Function Estimation Using Convolutional Neural Networks*.  
+Journal of Computational and Graphical Statistics, 1–14.  
+[https://doi.org/10.1080/10618600.2024.2402277](https://doi.org/10.1080/10618600.2024.2402277)
+
+---
+
+## Repository Contents
+
+- **Code**: Implementation of the spatial classifier using deep learning.
+- **Data**: Sample datasets used for training and testing.
+- **Results**: Reproducible outputs demonstrating model performance.
+
+---
+
+## Getting Started
+
+To run the code, ensure you have the required dependencies installed. Follow the instructions provided in the repository to execute the scripts.
+
+For any issues or questions, feel free to reach out.
+
 
 ## Pre-requisites
 
